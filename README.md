@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aghalar Teymurov</h1>
 <h3 align="center">Backend Developer from Azerbaijan</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSupianIDz%2FSupianIDz&psig=AOvVaw0h0KPz6Vy3FnPxl70Etiev&ust=1713509942174000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIj5kY2Yy4UDFQAAAAAdAAAAABAQ">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/thumbnail/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 - 🌱 I’m currently learning **Java-Spring**
 

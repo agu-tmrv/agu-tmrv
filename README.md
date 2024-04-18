@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aghalar Teymurov</h1>
 <h3 align="center">Backend Developer from Azerbaijan</h3>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.discordapp.com/attachments/1225802277390913656/1230412515880472626/coding.gif?ex=663339f3&is=6620c4f3&hm=7749eca691bf99c1eec4fa34d7b856b054573e9afad64307dc7b3e5e872ca074&)">
 
 - 🌱 I’m currently learning **Java-Spring**
 
